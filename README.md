@@ -1,4 +1,4 @@
-# Olá! Eu sou o Maycon Michel da Nobrega
+# Fala galera! Eu sou o Maycon Michel da Nobrega
 
 - 👨‍💻 Atualmente trabalho com criação de Robôs Personalizados para Whatssapp.
 - 👨‍🎓 Estudante dedicado de Front-End e Banco de Dados (Vou ser Programador Full-Stack!).
